@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "tone": "^15.0.4"
+    "tone": "^15.1.22"
   },
   "devDependencies": {
     "vite": "^6.2.5"
